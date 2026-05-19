@@ -14,4 +14,16 @@ Public release files for Moku, a small Codex pet character.
 
 Use `pet.json` with `assets/spritesheet.webp` as the Codex pet package.
 
-No license is included yet. Please ask before reusing or redistributing these assets.
+## License
+
+MOKU pet assets are licensed under Creative Commons Attribution 4.0 International
+(CC BY 4.0).
+
+You may use, copy, modify, and redistribute the assets, including commercially,
+as long as you give appropriate credit.
+
+Suggested attribution:
+
+```text
+MOKU by ton-su, licensed under CC BY 4.0.
+```
